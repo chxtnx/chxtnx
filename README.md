@@ -13,7 +13,7 @@ Hey!<br>I'm Chetna Vashisht.<br><br>A passionate MERN Stack Developer who loves 
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=chxtnx&theme=omni&hide_border=false&include_all_commits=true&count_private=false&layout=compact)</br>
 
 ### Quote of the day:
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
