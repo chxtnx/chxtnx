@@ -8,8 +8,8 @@ Hey!<br>I'm Chetna Vashisht.<br><br>A passionate MERN Stack Developer who loves 
 # 💻 Tech Stack:
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
 # 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=chxtnx&theme=omni&hide_border=false&include_all_commits=true&count_private=false)</br>
 ![](https://streak-stats.demolab.com/?user=chxtnx&theme=omni&hide_border=false)</br>
+![](https://github-readme-stats.shion.dev/api?username=chxtnx&theme=omni&hide_border=false&include_all_commits=true&count_private=false)</br>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=chxtnx&theme=omni&hide_border=false&include_all_commits=true&count_private=false&layout=compact)</br>
 
 ### Quote of the day:
